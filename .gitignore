@@ -1,0 +1,4 @@
+# Archivos temporales de Python
+__pycache__/
+# Puntos de control de Jupyter
+.ipynb_checkpoints/
